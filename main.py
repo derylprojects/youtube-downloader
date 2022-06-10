@@ -4,7 +4,7 @@ import os
 from telegram import InlineKeyboardMarkup
 from telegram.ext import Updater, CallbackQueryHandler, MessageHandler, Filters
 
-from vid_utils import Video, BadLink
+from sistem import Video, BadLink
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
