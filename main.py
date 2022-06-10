@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 
 
 def get_format(bot, update):
-    logger.info("from {}: {}".format(update.message.chat_id, update.message.text)) # "history"
+    logger.info("from {}: {}".format(update.message.chat_id, update.message.text))
 
     try:
         video = Video(update.message.text, init_keyboard=True)
