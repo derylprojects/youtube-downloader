@@ -1,8 +1,8 @@
-[![Issues](https://img.shields.io/github/issues/derylprojects/tiktok-bot?style=for-the-badge&color=green)](https://github.com/derylprojects/tiktok-bot/issues)
-[![Forks](https://img.shields.io/github/forks/derylprojects/tiktok-bot?style=for-the-badge&color=green)](https://github.com/derylprojects/tiktok-bot/fork)
-[![Stars](https://img.shields.io/github/stars/derylprojects/tiktok-bot?style=for-the-badge&color=green)](https://github.com/derylprojects/tiktok-bot)
-[![Size](https://img.shields.io/github/repo-size/derylprojects/tiktok-bot?style=for-the-badge&color=green)](https://github.com/derylprojects/tiktok-bot)
-[![Contributors](https://img.shields.io/github/contributors/derylprojects/tiktok-bot?style=for-the-badge&color=green)](https://github.com/derylprojects/tiktok-bot)
+[![Issues](https://img.shields.io/github/issues/derylprojects/youtube-downloader?style=for-the-badge&color=green)](https://github.com/derylprojects/youtube-downloader/issues)
+[![Forks](https://img.shields.io/github/forks/derylprojects/youtube-downloader?style=for-the-badge&color=green)](https://github.com/derylprojects/youtube-downloader)
+[![Stars](https://img.shields.io/github/stars/derylprojects/youtube-downloader?style=for-the-badge&color=green)](https://github.com/derylprojects/youtube-downloader)
+[![Size](https://img.shields.io/github/repo-size/derylprojects/youtube-downloader?style=for-the-badge&color=green)](https://github.com/derylprojects/youtube-downloader)
+[![Contributors](https://img.shields.io/github/contributors/derylprojects/youtube-downloader?style=for-the-badge&color=green)](https://github.com/derylprojects/youtube-downloader)
 
 
 # UPLOAD
