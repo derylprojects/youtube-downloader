@@ -1,19 +1,17 @@
 {
-    "name": "Youtube Dl",
-    "description": "Mudah.",
-    "website": "https://t.me/deryluserbothelp",
-    "repository": "https://github.com/derylprojects/youtube-downloader",
-    "logo": "https://i.ibb.co/BPFxDXx/photo-2021-07-09-11-55-52.jpg",
-    "env": {
-          "token": {"description": "Token botmu dari botfather","required": true}
-    },
-    "buildpacks": [
-      {"url": "heroku/python"}
-    ],
-    "formation": {
-      "worker": {
-        "quantity": 1,
-        "size": "free"
-      }
-    }
+ "name": "Youtube DL",
+ "description": "Telegram files to Direct link!!",
+ "logo": "https://telegra.ph/file/c3d25aa057a3aa2282d50.png",
+ "keywords": [
+   "telegram",
+   "FiletoLinkBot"
+  ],
+ "repository": "https://github.com/prgofficial/FileToLink",
+ "env": {
+   "token": {
+      "description": "Token dari @botfather",
+      "value": ""
   }
+  }
+ }
+}
